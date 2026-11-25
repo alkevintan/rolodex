@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rolodex</string>
+    <string name="intro">A thin pill sits on one edge of your screen. Swipe it to reveal a translucent search bar over whatever app you are in. Launch apps, look up words offline, do maths, convert units, or search the web.</string>
+    <string name="credit">Offline dictionary: Princeton WordNet® 3.0 — Copyright 2006 Princeton University. Used under the WordNet license; see WORDNET_LICENSE.txt.</string>
+    <string name="grant_permission">1. Grant overlay permission</string>
+    <string name="trigger_side">Trigger side</string>
+    <string name="trigger_width">Trigger width</string>
+    <string name="trigger_height">Trigger height</string>
+    <string name="launch_mode">Open apps in</string>
+    <string-array name="launch_modes">
+        <item>Full screen</item>
+        <item>Split view (if supported)</item>
+        <item>Floating window (if supported)</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Right edge</item>
+        <item>Left edge</item>
+    </string-array>
+    <string name="start">Start Rolodex</string>
+    <string name="tips">Tips\n• Swipe up/down on either edge pill to open the search bar.\n• Type an app name, then tap a result (or press the search key to open the first match).\n• Tap outside the panel or press Back to close it.\n• Stop the service from here when you are done testing.</string>
+</resources>
